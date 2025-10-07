@@ -1,0 +1,1 @@
+Este archivo representa un sonido (coloca un .mp3 o .wav real aquí).
